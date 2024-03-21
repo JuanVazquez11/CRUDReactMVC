@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDReactMVC.Server", "CRUDReactMVC.Server\CRUDReactMVC.Server.csproj", "{EC581703-C492-4219-B5AC-A8CEE300AE9F}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "crudreactmvc.client", "crudreactmvc.client\crudreactmvc.client.esproj", "{91921F4A-EC0A-48B2-B525-4474C6147A2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC581703-C492-4219-B5AC-A8CEE300AE9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC581703-C492-4219-B5AC-A8CEE300AE9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC581703-C492-4219-B5AC-A8CEE300AE9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC581703-C492-4219-B5AC-A8CEE300AE9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91921F4A-EC0A-48B2-B525-4474C6147A2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91921F4A-EC0A-48B2-B525-4474C6147A2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91921F4A-EC0A-48B2-B525-4474C6147A2D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{91921F4A-EC0A-48B2-B525-4474C6147A2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91921F4A-EC0A-48B2-B525-4474C6147A2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91921F4A-EC0A-48B2-B525-4474C6147A2D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E07C7B7-477B-4B74-BB7F-E3EAFF41C5BA}
+	EndGlobalSection
+EndGlobal
